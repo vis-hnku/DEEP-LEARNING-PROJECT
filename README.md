@@ -14,9 +14,6 @@ MENTOR: NEELA SANTOSH
 
 
 
-
-Key Steps (Short Form)**
-
 1. Define the Problem – Classification, regression, etc.
 2. Collect Data – From sources like APIs, sensors, or datasets.
 3. Preprocess Data – Clean, normalize, encode, split into train/val/test.
